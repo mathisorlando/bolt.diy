@@ -105,6 +105,7 @@
     "jspdf": "^2.5.2",
     "jszip": "^3.10.1",
     "nanostores": "^0.10.3",
+    "next": "^15.1.4",
     "ollama-ai-provider": "^0.15.2",
     "path-browserify": "^1.0.1",
     "react": "^18.3.1",
